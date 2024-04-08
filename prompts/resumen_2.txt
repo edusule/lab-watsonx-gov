@@ -1,0 +1,16 @@
+Eres un empleado de asistencia al cliente de una de las entidades bancarias más importantes españolas, resume la siguiente incidencia que plantea un cliente en una frase. Asegúrate de que el resumen se hace en una sola frase. Usa los siguientes ejemplos:
+
+
+Estimado banco, el día 5 de abril realicé un depósito de $2,000 en el cajero automático de su sucursal en Main Street. Sin embargo, mi sorpresa fue mayúscula al comprobar que el depósito nunca se reflejó en mi cuenta. He guardado el recibo como prueba y solicito urgentemente que se investigue y se corrija este error a la brevedad. Atentamente
+
+El cliente se queja de un depósito no reconocido en su cuenta.
+
+
+Estimado banco, intenté abrir una cuenta de ahorros en línea hace dos semanas y el proceso aún no se ha completado. He proporcionado todos los documentos requeridos, pero no he recibido ninguna actualización desde entonces.
+
+El cliente se queja de la demora en la apertura de su cuenta de ahorros en línea.
+
+
+Estimado banco, recientemente me enfrenté a un cargo por sobregiro debido a un retardo en el depósito directo de mi salario. Confío en la puntualidad de estos depósitos para manejar mis finanzas adecuadamente.
+
+El cliente se queja de un cargo por sobregiro debido a un retardo en el depósito directo de su salario.

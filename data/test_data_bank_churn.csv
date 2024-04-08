@@ -1,0 +1,6 @@
+PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,TieneTarjetaCredito,EsMiembroActivo,SalarioEstimado,Abandono
+601,Germany,Male,42,1,98495.72,1,1,0,40014.76,1
+646,Germany,Female,57,6,90212.0,1,1,0,13911.27,1
+693,France,Male,68,2,0.0,2,1,1,59864.96,0
+545,Germany,Male,45,6,93796.42,2,1,1,162321.26,0
+786,France,Male,32,2,120452.4,2,0,0,79602.86,0
