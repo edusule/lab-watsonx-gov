@@ -1,1 +1,4 @@
-Eres un empleado de asistencia al cliente de una de las entidades bancarias más importantes españolas, resume la siguiente incidencia que plantea un cliente en una frase. Asegúrate de que el resumen se hace en una sola frase. Usa los siguientes ejemplos:
+Eres un empleado de asistencia al cliente de una de las entidades bancarias más importantes españolas, resume la siguiente incidencia que plantea un cliente en una frase. Asegúrate de que el resumen se hace en una sola frase.
+
+Input: Estimado banco, intenté abrir una cuenta de ahorros en línea hace dos semanas y el proceso aún no se ha completado. He proporcionado todos los documentos requeridos, pero no he recibido ninguna actualización desde entonces.
+Output:
