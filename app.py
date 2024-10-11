@@ -1,5 +1,4 @@
 import streamlit as st
-from ibm_watsonx_ai.foundation_models import Model
 import os
 from dotenv import load_dotenv
 from helpers.auth import auth
@@ -33,7 +32,7 @@ def main():
         
         with col1:
             # Display an image (replace 'image_path_or_url' with the actual path or URL to your image)
-            st.image('images\watson.png', width=180)  # Adjust the width as needed
+            st.image('images/watson.png', width=180)  # Adjust the width as needed
         
         with col2:
             # Display the title next to the image
@@ -97,7 +96,7 @@ def main():
         "SalarioEstimado": 167564.82
     },
     "Client 5": {
-        "queja": "Mi tarjeta acaba de ser declinada sin explicación alguna. Esto es inaceptable; he revisado mi cuenta y hay fondos suficientes. Necesito saber inmediatamente qué está pasando. ¿Hay alguna restricción o problema de seguridad en mi tarjeta que no conozco? Espero una solución rápida y una explicación de por qué no fui informado previamente de este problema. Este tipo de inconvenientes no solo es molesto, sino que me hace cuestionar la fiabilidad de sus servicios. Espero su pronta respuesta.",
+        "queja": "Buenos días,  me llamo Alberto Vazquez y me pongo en contacto con ustedes en relación a la prestación del servicio de tarifa plana que tengo contratado desde el 04/04/2025. En contra de los que afirma el contrato y las condiciones del servicio, en ningún momento de este año he tenido una facturación plana y regular. Todo lo contrario, cada mes se me ha facturado por un importe totalmente arbitrario y diferente, no correspondiéndose con la realidad que figurar en el contador de electricidad. Por la presente, les reclamo la diferencia del importe de lo facturado con lo que muestra el contador de electricidad, así como una compensación por el trastorno causado, además de los intereses de demora.",
         "PuntuacionDeCredito": 600,
         "Geografia": "France",
         "Genero": "Male",
@@ -142,7 +141,8 @@ def main():
             if input_text:
                 senti = sentiment(token,space_id_sentiment,input_text)
                 summari = summarization(token,space_id_summarization,input_text)
-                tipo = tipo_class(token,space_id_tipo,input_text)
+                #tipo = tipo_class(token,space_id_tipo,input_text)
+                tipo = "Reclamación facturas"
                 contestacion = res_contestacion(token,space_id_contestacion,input_text)
 
                 col_analysis1, col_analysis2 = st.columns(2)
