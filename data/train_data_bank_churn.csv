@@ -53,6 +53,7 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 585,Germany,Male,36,5,146050.97,2,0,0,86424.57,0
 788,France,Female,33,5,0.0,2,0,0,116978.19,0
 655,Germany,Male,41,8,125561.97,1,0,0,164040.94,1
+601,Germany,Male,42,1,98495.72,1,1,0,40014.76,1
 619,France,Male,43,1,125211.92,1,1,1,113410.49,0
 656,France,Male,45,5,127864.4,1,1,0,87107.57,0
 725,Germany,Male,19,0,75888.2,1,0,0,45613.75,0
@@ -1590,7 +1591,6 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 675,Germany,Male,36,7,89409.95,1,1,1,149399.7,0
 632,Spain,Female,39,5,97854.37,2,1,0,93536.38,0
 621,France,Male,39,6,0.0,2,1,1,58883.91,0
-521,Spain,Male,29,3,60280.62,1,1,0,154271.41,0
 591,Spain,Male,36,7,135216.8,1,1,1,122022.89,0
 706,Germany,Female,28,6,124923.35,2,1,1,50299.14,0
 677,France,Male,38,4,0.0,2,1,0,187800.63,0
@@ -2319,6 +2319,7 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 672,Spain,Male,33,2,0.0,2,1,1,182738.0,0
 636,Germany,Female,37,9,157098.52,1,1,1,153535.27,0
 593,Germany,Female,38,5,85626.6,1,1,1,125079.65,0
+545,Germany,Male,45,6,93796.42,2,1,1,162321.26,0
 567,Spain,Female,41,1,0.0,2,1,0,3414.72,0
 583,France,Male,51,6,125268.03,2,1,0,165082.25,0
 681,France,Female,29,2,148143.84,1,1,1,52021.39,0
@@ -2390,7 +2391,6 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 602,Germany,Male,32,7,184715.86,2,1,0,113781.99,0
 850,France,Male,31,3,0.0,2,1,0,121866.87,0
 649,Spain,Male,51,4,0.0,1,1,1,150390.57,0
-850,Germany,Male,28,4,147972.19,1,1,0,60708.72,1
 543,France,Male,43,9,0.0,2,1,1,78858.07,0
 672,France,Male,52,8,170008.84,1,0,0,56407.42,1
 600,France,Female,27,3,0.0,2,0,1,125698.97,0
@@ -5501,6 +5501,7 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 631,France,Female,31,8,137687.72,1,1,0,190067.12,0
 614,Spain,Female,40,3,113348.5,1,1,1,77789.01,0
 704,Spain,Male,24,10,122109.78,1,1,1,127654.37,0
+786,France,Male,32,2,120452.4,2,0,0,79602.86,0
 534,France,Female,53,7,0.0,2,1,1,80619.17,0
 590,Spain,Male,34,0,65812.35,2,0,1,160346.3,0
 583,Spain,Female,40,3,54428.37,1,1,0,109638.78,1
@@ -6019,7 +6020,6 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 609,France,Female,35,2,147900.43,1,1,0,140000.29,0
 714,France,Male,52,4,100755.66,1,1,1,186775.25,0
 694,Spain,Female,35,7,0.0,1,1,0,133570.43,1
-786,France,Female,33,0,83036.05,1,0,1,154990.58,1
 698,Spain,Male,27,6,125427.37,2,0,0,27654.44,0
 601,France,Female,46,3,98202.76,1,0,0,137763.93,0
 769,Spain,Male,41,1,72509.91,1,1,0,25723.73,0
@@ -6451,7 +6451,6 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 538,Spain,Male,43,5,0.0,2,1,0,126933.73,0
 566,Germany,Female,44,5,141428.99,2,0,0,68408.74,0
 597,Spain,Male,35,0,127510.99,1,1,1,155356.34,0
-711,France,Female,29,9,0.0,2,0,1,3234.8,0
 606,France,Male,31,10,0.0,2,1,0,195209.4,0
 615,Spain,Male,51,6,81818.49,1,1,1,169149.38,0
 589,France,Male,36,1,100895.54,1,1,1,68075.14,0
@@ -6863,7 +6862,6 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 593,Germany,Female,48,3,133903.12,2,1,1,85902.39,1
 736,Germany,Female,26,0,84587.9,1,0,1,188037.76,0
 675,Spain,Male,32,8,197436.82,1,1,1,52710.7,0
-656,Spain,Female,32,1,104254.27,1,1,1,17034.37,0
 462,France,Male,39,4,140133.08,2,0,0,131304.45,0
 685,Spain,Female,30,2,0.0,3,1,1,172576.43,1
 850,Germany,Female,36,0,136980.23,2,1,1,99019.65,0
@@ -7432,6 +7430,7 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 779,Germany,Female,37,2,128389.63,1,1,1,6589.16,1
 638,Spain,Male,35,1,0.0,2,1,0,165370.66,0
 610,Spain,Female,50,5,130554.51,3,1,0,184758.17,1
+646,Germany,Female,57,6,90212.0,1,1,0,13911.27,1
 628,France,Female,29,9,71996.29,1,1,1,34857.46,0
 528,France,Female,32,4,85615.66,2,1,0,156192.43,0
 432,France,Female,27,6,62339.81,2,0,0,53874.67,0
@@ -7715,6 +7714,7 @@ PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,Ti
 692,Spain,Male,46,2,0.0,2,1,1,105983.09,0
 740,France,Female,60,5,108028.08,2,0,0,25980.42,1
 666,Germany,Male,71,1,53013.29,2,1,1,112222.64,0
+693,France,Male,68,2,0.0,2,1,1,59864.96,0
 757,Germany,Male,33,1,122088.67,1,1,0,42581.09,0
 684,Germany,Male,18,9,90544.0,1,0,1,4777.23,0
 691,Spain,Male,35,6,0.0,2,0,1,178038.17,0

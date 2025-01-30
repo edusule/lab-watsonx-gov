@@ -1,6 +1,6 @@
 PuntuacionDeCredito,Geografia,Genero,Edad,Antigüedad,Saldo,NumeroDeProductos,TieneTarjetaCredito,EsMiembroActivo,SalarioEstimado,Abandono
-601,Germany,Male,42,1,98495.72,1,1,0,40014.76,1
-646,Germany,Female,57,6,90212.0,1,1,0,13911.27,1
-693,France,Male,68,2,0.0,2,1,1,59864.96,0
-545,Germany,Male,45,6,93796.42,2,1,1,162321.26,0
-786,France,Male,32,2,120452.4,2,0,0,79602.86,0
+850,Germany,Male,28,4,147972.19,1,1,0,60708.72,1
+786,France,Female,33,0,83036.05,1,0,1,154990.58,1
+656,Spain,Female,32,1,104254.27,1,1,1,17034.37,0
+521,Spain,Male,29,3,60280.62,1,1,0,154271.41,0
+711,France,Female,29,9,0.0,2,0,1,3234.8,0

@@ -5,6 +5,9 @@ def churn_predict(token,space_id,values_json):
 
     url = f"https://us-south.ml.cloud.ibm.com/ml/v4/deployments/{space_id}/predictions?version=2021-05-01"
 
+    print("###########")
+    print(values_json)
+
     values_json.pop('queja', None)
 
     fields = list(values_json.keys())

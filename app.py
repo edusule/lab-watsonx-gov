@@ -141,8 +141,7 @@ def main():
             if input_text:
                 senti = sentiment(token,space_id_sentiment,input_text)
                 summari = summarization(token,space_id_summarization,input_text)
-                #tipo = tipo_class(token,space_id_tipo,input_text)
-                tipo = "Reclamación facturas"
+                tipo = tipo_class(token,space_id_tipo,input_text)
                 contestacion = res_contestacion(token,space_id_contestacion,input_text)
 
                 col_analysis1, col_analysis2 = st.columns(2)
